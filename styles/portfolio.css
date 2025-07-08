@@ -52,6 +52,7 @@ nav ul{
     border-radius: 5px;
     font-size: 20px;
     border: none;
+
 }
 .banner-greeting{
       font-weight: 600px;
@@ -180,5 +181,10 @@ main section{
 .resume-download-cv{
     margin: 50px;
 }
-.
+.section-title
+{
+    justify-content: center;
+    font-size: 35px;
+    font: bold;
+}
 
