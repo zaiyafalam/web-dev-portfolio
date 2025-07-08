@@ -83,8 +83,9 @@ nav ul{
   
 .banner {
     display: flex;
-    justify-content: right;
+    justify-content: space-between;
     align-items: center;
+    margin: 0 35px 0 200px;
     
 }
 
