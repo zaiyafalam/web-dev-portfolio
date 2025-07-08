@@ -162,5 +162,23 @@ main section{
 .skills{
     padding: 40px;
 }
-
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.experience-description{
+    color: #757575;
+}
+.experience-sub-title{
+    color: #757575;
+    font-weight: 600px;
+    margin-bottom: 20px;
+}
+.resume-container hr{
+    margin: 30px 5px;
+}
+.resume-download-cv{
+    margin: 50px;
+}
+.
 
