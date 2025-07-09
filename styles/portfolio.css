@@ -1,4 +1,4 @@
-.open-sans-normal {
+.openfontans-normal {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
@@ -154,6 +154,7 @@ main section{
     padding: 30px;
     box-shadow: 0px 6px 50px 0px #000000;
     justify-content: space-around;
+    
 
 }
 .skills-container{
@@ -188,4 +189,68 @@ main section{
     font-size: 35px;
     font: bold;
 }
+.contact-container{
+    padding: 60px 20px;
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    
+
+
+}
+
+
+
+.contact-information{
+    
+    gap: 24px;
+    height: 56px;
+    width: 562px;
+    padding: 30px;
+}
+
+ .contact-container{
+    display: flex;
+    justify-content: center;
+ }  
+    
+
+
+.submit {
+    
+     background-color: #FD6E0A;
+     color: white;
+     
+}
+.social-icons {
+    display: flex;
+    width: 120px;
+    height: 24px;
+    
+}
+.contact-information h2{
+    margin-bottom: 20px;
+}
+.contact-form h2{
+    margin-bottom: 20px;
+}
+.contact-form input{
+    padding-left: 6px;
+    padding-bottom: 12px;
+    width: 461px;
+    height: 64px;
+    text-box: white;
+    text: #474747
+
+
+
+}
+.contact-form textarea{
+    border-radius: 5px;
+    width: 461px;
+    height: 180px;
+
+}
+
+    
+
 
